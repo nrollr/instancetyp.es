@@ -1,7 +1,7 @@
 {
-    "release": "v2.3.0",
+    "release": "v2.3.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 17, 2026",
+    "published": "June 10, 2026",
     "instances": [
         {
             "_index": 1,
@@ -21914,7 +21914,7 @@
             "uid": "bee1113e13ebd4c4",
             "instance_type": "c8in.metal-96xl",
             "instance_category": "Compute Optimized",
-            "instance_generation": "Compute Optimized",
+            "instance_generation": "Current generation",
             "release_month": "April",
             "release_year": 2026,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
@@ -23977,6 +23977,690 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 1333,
+            "uid": "709cb608a41fae52",
+            "instance_type": "m8in.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1334,
+            "uid": "28fca5e0db9924b6",
+            "instance_type": "m8in.metal-96xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1335,
+            "uid": "cf5f119223d7bb74",
+            "instance_type": "m8ib.metal-48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1336,
+            "uid": "2109ba73056b9d7c",
+            "instance_type": "m8ib.metal-96xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1337,
+            "uid": "086188b17afcf01c",
+            "instance_type": "m8idb.metal-48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1338,
+            "uid": "00cf0ee2e594ed72",
+            "instance_type": "m8idb.metal-96xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1339,
+            "uid": "84f62ca71ad28a15",
+            "instance_type": "m8idn.metal-48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1340,
+            "uid": "ac39f1bd6bbb3221",
+            "instance_type": "m8idn.metal-96xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1341,
+            "uid": "8836650f4fd46f85",
+            "instance_type": "r8in.metal-48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1342,
+            "uid": "d5bb8a653b27ecd8",
+            "instance_type": "r8in.metal-96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1343,
+            "uid": "108cb3bbe55ce8e5",
+            "instance_type": "r8idn.metal-48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1344,
+            "uid": "d44ee7c602b0d4aa",
+            "instance_type": "r8idn.metal-96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1345,
+            "uid": "f542b02b21937382",
+            "instance_type": "r8ib.metal-48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1346,
+            "uid": "737a299010739e52",
+            "instance_type": "r8ib.metal-96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1347,
+            "uid": "f377858091d5391c",
+            "instance_type": "r8idb.metal-48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1348,
+            "uid": "492562e0a0e1ff1e",
+            "instance_type": "r8idb.metal-96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+                "published": "Jun 9, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1349,
+            "uid": "a7769c187a9417d7",
+            "instance_type": "m9g.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1350,
+            "uid": "147dd7823e638d63",
+            "instance_type": "m9g.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1351,
+            "uid": "8c9f3ab3a925b272",
+            "instance_type": "m9g.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1352,
+            "uid": "a78e42bdf76585e2",
+            "instance_type": "m9g.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1353,
+            "uid": "4cd32a630427fe84",
+            "instance_type": "m9g.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1354,
+            "uid": "4aa3642b4d1fe4ab",
+            "instance_type": "m9g.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1355,
+            "uid": "f672981fb7f1e3e6",
+            "instance_type": "m9g.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1356,
+            "uid": "5eb0d4ca94590efe",
+            "instance_type": "m9g.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1357,
+            "uid": "2d36bd4167339dc8",
+            "instance_type": "m9g.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1358,
+            "uid": "1a2f511fd7f55296",
+            "instance_type": "m9g.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1359,
+            "uid": "4c57834dc55991b4",
+            "instance_type": "m9g.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1360,
+            "uid": "524cd8c865e38943",
+            "instance_type": "m9gd.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1361,
+            "uid": "d1611aaf0e6016f7",
+            "instance_type": "m9gd.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1362,
+            "uid": "1d7391d6c92f46cc",
+            "instance_type": "m9gd.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1363,
+            "uid": "1968ab64281bcb2a",
+            "instance_type": "m9gd.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1364,
+            "uid": "42f9ad4349e85c8a",
+            "instance_type": "m9gd.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1365,
+            "uid": "48cf0eabcf8fc3bc",
+            "instance_type": "m9gd.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1366,
+            "uid": "200d9ba4bf07e55b",
+            "instance_type": "m9gd.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1367,
+            "uid": "deeae15da6adc9aa",
+            "instance_type": "m9gd.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1368,
+            "uid": "a4845a653e6088b2",
+            "instance_type": "m9gd.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1369,
+            "uid": "929a9c596ff0d823",
+            "instance_type": "m9gd.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1370,
+            "uid": "c165329020ab69f0",
+            "instance_type": "m9gd.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available/",
+                "published": "Jun 10, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+                "published": "Jun 10, 2026"
             }
         }
     ]
