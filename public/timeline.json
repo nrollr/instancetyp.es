@@ -1,7 +1,7 @@
 {
-    "release": "v2.3.2",
+    "release": "v2.3.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 10, 2026",
+    "published": "June 19, 2026",
     "instances": [
         {
             "_index": 1,
@@ -24661,6 +24661,114 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
                 "published": "Jun 10, 2026"
+            }
+        },
+        {
+            "_index": 1371,
+            "uid": "445236ba1496b8f3",
+            "instance_type": "g7.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available/",
+                "published": "Jun 18, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+                "published": "Jun 18, 2026"
+            }
+        },
+        {
+            "_index": 1372,
+            "uid": "643768976e8c58c8",
+            "instance_type": "g7.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available/",
+                "published": "Jun 18, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+                "published": "Jun 18, 2026"
+            }
+        },
+        {
+            "_index": 1373,
+            "uid": "b8c1c14818ea4c15",
+            "instance_type": "g7.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available/",
+                "published": "Jun 18, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+                "published": "Jun 18, 2026"
+            }
+        },
+        {
+            "_index": 1374,
+            "uid": "a538b9f02c080589",
+            "instance_type": "g7.12xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available/",
+                "published": "Jun 18, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+                "published": "Jun 18, 2026"
+            }
+        },
+        {
+            "_index": 1375,
+            "uid": "41504c19b0d8a26b",
+            "instance_type": "g7.24xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available/",
+                "published": "Jun 18, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+                "published": "Jun 18, 2026"
+            }
+        },
+        {
+            "_index": 1376,
+            "uid": "70c1a743d791f050",
+            "instance_type": "g7.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available/",
+                "published": "Jun 18, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+                "published": "Jun 18, 2026"
             }
         }
     ]
