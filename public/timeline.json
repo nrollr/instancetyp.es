@@ -1,7 +1,7 @@
 {
-    "release": "v2.3.3",
+    "release": "v2.3.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 19, 2026",
+    "published": "July 01, 2026",
     "instances": [
         {
             "_index": 1,
@@ -24769,6 +24769,402 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
                 "published": "Jun 18, 2026"
+            }
+        },
+        {
+            "_index": 1377,
+            "uid": "45d6942bdb904576",
+            "instance_type": "c9g.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1378,
+            "uid": "ec2fc6c1011334fb",
+            "instance_type": "c9g.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1379,
+            "uid": "cc4cf49d80df2a52",
+            "instance_type": "c9g.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1380,
+            "uid": "29c372e41e9ec1af",
+            "instance_type": "c9g.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1381,
+            "uid": "57faff290ded1d27",
+            "instance_type": "c9g.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1382,
+            "uid": "af4d71280f5559f8",
+            "instance_type": "c9g.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1383,
+            "uid": "bfc58ccd0eac800c",
+            "instance_type": "c9g.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1384,
+            "uid": "8786680d647db7fe",
+            "instance_type": "c9g.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1385,
+            "uid": "31d5015f3d4e11a5",
+            "instance_type": "c9g.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1386,
+            "uid": "1fba7fb2d58a5b51",
+            "instance_type": "c9g.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1387,
+            "uid": "af80890abdea211e",
+            "instance_type": "c9g.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1388,
+            "uid": "2701b620a520ac00",
+            "instance_type": "c9gd.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1389,
+            "uid": "208322f35d15a72f",
+            "instance_type": "c9gd.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1390,
+            "uid": "cd3b8a4d3606c7ee",
+            "instance_type": "c9gd.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1391,
+            "uid": "e2f0d8e63959a29c",
+            "instance_type": "c9gd.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1392,
+            "uid": "c6ef7bd5ba1e6821",
+            "instance_type": "c9gd.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1393,
+            "uid": "94756edac144c12d",
+            "instance_type": "c9gd.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1394,
+            "uid": "9089fc5ad99a53b2",
+            "instance_type": "c9gd.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1395,
+            "uid": "e7db232ce7133d56",
+            "instance_type": "c9gd.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1396,
+            "uid": "ffeecebdd61081d9",
+            "instance_type": "c9gd.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1397,
+            "uid": "3072a27c285246bb",
+            "instance_type": "c9gd.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1398,
+            "uid": "58a8d331f8740964",
+            "instance_type": "c9gd.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+                "published": "Jun 30, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+                "published": "Jun 30, 2026"
             }
         }
     ]
