@@ -1,7 +1,7 @@
 {
-    "release": "v2.3.4",
+    "release": "v2.3.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "July 01, 2026",
+    "published": "September 03, 2026",
     "instances": [
         {
             "_index": 1,
@@ -25165,6 +25165,402 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
                 "published": "Jun 30, 2026"
+            }
+        },
+        {
+            "_index": 1399,
+            "uid": "272079486ed31df9",
+            "instance_type": "r9g.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1400,
+            "uid": "6b63b09e707d2786",
+            "instance_type": "r9g.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1401,
+            "uid": "04a9e3d81db08b34",
+            "instance_type": "r9g.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1402,
+            "uid": "52ccd7060ebaeabb",
+            "instance_type": "r9g.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1403,
+            "uid": "5da0070499177064",
+            "instance_type": "r9g.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1404,
+            "uid": "0d44dc58f88e63a5",
+            "instance_type": "r9g.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1405,
+            "uid": "fc33fcf065d6fe24",
+            "instance_type": "r9g.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1406,
+            "uid": "ea67c59f79203060",
+            "instance_type": "r9g.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1407,
+            "uid": "655e07b03128c405",
+            "instance_type": "r9g.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1408,
+            "uid": "741a56b03e973620",
+            "instance_type": "r9g.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1409,
+            "uid": "317c3a4730d93840",
+            "instance_type": "r9g.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1410,
+            "uid": "3ebfb6b1cc4ca5e5",
+            "instance_type": "r9gd.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1411,
+            "uid": "b93b7c2885a3e5d9",
+            "instance_type": "r9gd.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1412,
+            "uid": "af1a7732454f289d",
+            "instance_type": "r9gd.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1413,
+            "uid": "a5fd1174c9bac4b0",
+            "instance_type": "r9gd.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1414,
+            "uid": "c4eb6829bd0e7fea",
+            "instance_type": "r9gd.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1415,
+            "uid": "e75228d75aec31e9",
+            "instance_type": "r9gd.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1416,
+            "uid": "081b7c62e13c0dcb",
+            "instance_type": "r9gd.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1417,
+            "uid": "aec0824059a657ab",
+            "instance_type": "r9gd.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1418,
+            "uid": "c384d98c8a8ada07",
+            "instance_type": "r9gd.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1419,
+            "uid": "c2684a01373aca29",
+            "instance_type": "r9gd.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1420,
+            "uid": "f2a7bb7b91ed399d",
+            "instance_type": "r9gd.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+                "published": "Aug 31, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+                "published": "Aug 31, 2026"
             }
         }
     ]
