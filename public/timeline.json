@@ -1,7 +1,7 @@
 {
-    "release": "v2.3.5",
+    "release": "v2.3.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 03, 2026",
+    "published": "October 02, 2026",
     "instances": [
         {
             "_index": 1,
@@ -25561,6 +25561,78 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
                 "published": "Aug 31, 2026"
+            }
+        },
+        {
+            "_index": 1421,
+            "uid": "75a8c7e214c21321",
+            "instance_type": "t8i.nano",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
+                "published": "Sep 17, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+                "published": "Sep 17, 2026"
+            }
+        },
+        {
+            "_index": 1422,
+            "uid": "992fc37dea0c33b4",
+            "instance_type": "t8i.micro",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
+                "published": "Sep 17, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+                "published": "Sep 17, 2026"
+            }
+        },
+        {
+            "_index": 1423,
+            "uid": "5520293e98c05432",
+            "instance_type": "t8i.small",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
+                "published": "Sep 17, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+                "published": "Sep 17, 2026"
+            }
+        },
+        {
+            "_index": 1424,
+            "uid": "6089374615b6cb5f",
+            "instance_type": "t8i.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
+                "published": "Sep 17, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+                "published": "Sep 17, 2026"
             }
         }
     ]
