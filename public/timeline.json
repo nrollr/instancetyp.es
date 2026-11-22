@@ -1,7 +1,7 @@
 {
-    "release": "v2.3.6",
+    "release": "v2.3.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "October 02, 2026",
+    "published": "November 22, 2026",
     "instances": [
         {
             "_index": 1,
@@ -25633,6 +25633,78 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
                 "published": "Sep 17, 2026"
+            }
+        },
+        {
+            "_index": 1425,
+            "uid": "c557aca462c19af0",
+            "instance_type": "t9g.nano",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
+                "published": "Nov 20, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1426,
+            "uid": "d78b09792f61b73b",
+            "instance_type": "t9g.micro",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
+                "published": "Nov 20, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1427,
+            "uid": "0e072b05687446f2",
+            "instance_type": "t9g.small",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
+                "published": "Nov 20, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1428,
+            "uid": "4e26a9415353564f",
+            "instance_type": "t9g.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t9g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
+                "published": "Nov 20, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
