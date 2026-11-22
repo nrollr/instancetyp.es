@@ -11,9 +11,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@astrojs/sitemap": "^3.7.4",
+    "@astrojs/sitemap": "^3.7.6",
     "@tailwindcss/vite": "^4.3.5",
-    "astro": "^7.4.7",
+    "astro": "^7.4.13",
     "tailwindcss": "^4.3.5",
     "typescript": "^7.0.2"
   },
