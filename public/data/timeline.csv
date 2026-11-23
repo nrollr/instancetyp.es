@@ -1427,3 +1427,4 @@
 1426;"d78b09792f61b73b";"t9g.micro";"General Purpose";"Current generation";"November";"2026";"https://aws.amazon.com/ec2/instance-types/t9g/";"https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/";"Nov 20, 2026";NULL;NULL
 1427;"0e072b05687446f2";"t9g.small";"General Purpose";"Current generation";"November";"2026";"https://aws.amazon.com/ec2/instance-types/t9g/";"https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/";"Nov 20, 2026";NULL;NULL
 1428;"4e26a9415353564f";"t9g.medium";"General Purpose";"Current generation";"November";"2026";"https://aws.amazon.com/ec2/instance-types/t9g/";"https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/";"Nov 20, 2026";NULL;NULL
+1429;"e8c5c43744eee46f";"g7.metal";"Accelerated Computing";"Current generation";"November";"2026";"https://aws.amazon.com/ec2/instance-types/g7/";"https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/";"Nov 23, 2026";NULL;NULL
